@@ -1,0 +1,5 @@
+if SHIELD_PUTITI36_choc
+
+config ZMK_KEYBOARD_NAME
+	default "putiti36_choc"
+endif
